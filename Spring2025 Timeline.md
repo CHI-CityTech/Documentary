@@ -51,6 +51,8 @@
 * **Apr 10**: *BSPT Production Meeting* — technical rehearsal notes, cue synchronization. *(Calendar event)*
 * **Apr 17**: *Rehearsal & Script Alignment* — coordinated by Chris Swift and Edward; focus on lighting control and fabric textures. *(Calendar event)*
 * **Apr 25**: *Performance Planning Session* — run-through for May show logistics and recording protocols. *(Calendar event)*
+* **Apr 30**: *rehearsal with Puppets* - continuij gn to practice and develop [photo](https://www.dropbox.com/scl/fi/ibpp4w2joymexcet61yxp/BSP-team-assembling-puppet-attachments.jpg)
+
 
 ---
 
