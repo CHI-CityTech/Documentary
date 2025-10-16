@@ -1,4 +1,4 @@
-# 🎬 Film Project Log  HI!
+# 🎬 Film Project Log
 
 ## Log Entry 1
 | Date       | Activity                  | Time Spent | Deliverable (link or description) |
