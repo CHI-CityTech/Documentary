@@ -3,7 +3,7 @@
 ## Log Entry 1
 | Date       | Activity                  | Time Spent | Deliverable (link or description) |
 |------------|---------------------------|------------|-----------------------------------|
-| 2025-10-01 | [Recorded and logged some stuff | 4 rs      | Link to what wa sdone this can be in a doc as well    |
+| 2025-10-01 | [Recorded and logged some video | 4 rs      | Link to what wa sdone this can be in a doc as well    |
 
 ---
 
