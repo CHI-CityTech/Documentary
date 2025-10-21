@@ -10,7 +10,7 @@
 ## Log Entry 2
 | Date       | Activity                  | Time Spent | Deliverable (link or description) |
 |------------|---------------------------|------------|-----------------------------------|
-| YYYY-MM-DD | [Describe the activity...] | HH:MM      | [link or short description...]    |
+| 2025-09-10 | [edit video | HH:MM      | [link or short description...]    |
 
 ---
 
