@@ -1,6 +1,10 @@
 # Documentary
 This repository stores assets and planning for documentary development
 
+## Project Docs
+- [Potential Approaches (with Instructions)](Potential%20Approaches.md)
+- [After Effects Particle-to-Text Workflows](after_effects_particle_to_text_workflows.md)
+
 We will be using this [Dropbox Repository](https://www.dropbox.com/scl/fo/cf3lopigg59hr6n47q8mh/ABzCfCgeAViMqP2JqGFIRxc?rlkey=r8y8f8iyzvl2xzl3c4guricpe&st=xgzwr740&dl=0) to store our materials.  
 
 THis is the link to our Archival log with all the assets stored [BSPT Video Archive](https://docs.google.com/spreadsheets/d/1hvM8PBp4c_jUJMIUe25zSHVzNUt8lUL74MBnv_OtW8c/edit?usp=sharing)  
