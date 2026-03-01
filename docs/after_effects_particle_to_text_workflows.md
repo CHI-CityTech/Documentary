@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD022 MD032 MD060 -->
+
 # After Effects Particle-to-Text Workflows
 
 ## Quick Navigation
