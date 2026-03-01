@@ -5,8 +5,8 @@ This repository stores assets and planning for video documentary development.
 ## File Structure
 
 - `./` — Root workspace for core planning notes, timelines, and project-level documentation.
-- `docs/` — Process guides, workflow references, and best-practice documentation.
-- `meeting_summaries/` — Meeting notes, decisions, and follow-up action summaries.
+- [`docs/`](./docs) — Process guides, workflow references, and best-practice documentation.
+- [`meeting_summaries/`](./meeting_summaries) — Meeting notes, decisions, and follow-up action summaries.
 
 We will be using this [Dropbox repository](https://www.dropbox.com/scl/fo/cf3lopigg59hr6n47q8mh/ABzCfCgeAViMqP2JqGFIRxc?rlkey=r8y8f8iyzvl2xzl3c4guricpe&st=xgzwr740&dl=0) to store our materials.  
 
