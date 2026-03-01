@@ -1,10 +1,6 @@
 # Documentary
 
-This repository stores assets and planning for documentary development.
-
-## Project Docs
-
-- [After Effects Particle-to-Text Workflows](docs/after_effects_particle_to_text_workflows.md)
+This repository stores assets and planning for video documentary development.
 
 ## File Structure
 
