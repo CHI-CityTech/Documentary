@@ -1,15 +1,18 @@
 # Documentary
+
 This repository stores assets and planning for documentary development.
 
 ## Project Docs
+
 - [After Effects Particle-to-Text Workflows](docs/after_effects_particle_to_text_workflows.md)
 
 ## File Structure
+
 - `README.md`
 - `docs/`
-	- `after_effects_particle_to_text_workflows.md`
+  - `after_effects_particle_to_text_workflows.md`
 - `meeting_summaries/`
-	- `2025-02-28 Meeting Summary Manny and David.md`
+  - `2025-02-28 Meeting Summary Manny and David.md`
 - `Best Practice Cataloging Film Clips.md`
 - `Campbell Work Log.md`
 - `Spring2025 Timeline.md`
@@ -22,8 +25,8 @@ Logos and other art and icons can be found at this [Dropbox location](https://ww
 
 Spring 2024 resources can be found in this [Dropbox folder](https://www.dropbox.com/scl/fo/d9giyfhs8weuoxm0qqocb/AKAd-XUpmCTPax8YVbJSX5g?rlkey=mes99izoodc5zel9zqg2wbgw9&dl=0)  
 
-Further assets can be found on the OpenLab BSP site [here](https://openlab.citytech.cuny.edu/wayang2024/). Pay particular attention to the Spring 2024 notes as well as the archive.
+Further assets can be found on the [OpenLab BSP site](https://openlab.citytech.cuny.edu/wayang2024/). Pay particular attention to the Spring 2024 notes as well as the archive.
 
 Daniel and Juliann both have edit access.
-We have created a shared Dropbox user account called citytechchi@gmail.com.  This will allow us to store the required file sizes without needing to give everybody an individual account.  
+We have created a shared Dropbox user account called [citytechchi@gmail.com](mailto:citytechchi@gmail.com). This will allow us to store the required file sizes without needing to give everybody an individual account.
 
