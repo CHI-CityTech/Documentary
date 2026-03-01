@@ -2,7 +2,17 @@
 This repository stores assets and planning for documentary development.
 
 ## Project Docs
-- [After Effects Particle-to-Text Workflows](after_effects_particle_to_text_workflows.md)
+- [After Effects Particle-to-Text Workflows](docs/after_effects_particle_to_text_workflows.md)
+
+## File Structure
+- `README.md`
+- `docs/`
+	- `after_effects_particle_to_text_workflows.md`
+- `meeting_summaries/`
+	- `2025-02-28 Meeting Summary Manny and David.md`
+- `Best Practice Cataloging Film Clips.md`
+- `Campbell Work Log.md`
+- `Spring2025 Timeline.md`
 
 We will be using this [Dropbox repository](https://www.dropbox.com/scl/fo/cf3lopigg59hr6n47q8mh/ABzCfCgeAViMqP2JqGFIRxc?rlkey=r8y8f8iyzvl2xzl3c4guricpe&st=xgzwr740&dl=0) to store our materials.  
 
