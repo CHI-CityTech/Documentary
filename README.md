@@ -18,6 +18,8 @@ Logos and other art and icons can be found at this [Dropbox location](https://ww
 
 Spring 2024 resources can be found in this [Dropbox folder](https://www.dropbox.com/scl/fo/d9giyfhs8weuoxm0qqocb/AKAd-XUpmCTPax8YVbJSX5g?rlkey=mes99izoodc5zel9zqg2wbgw9&dl=0)  
 
+Additional resources can be found in this [Google Drive folder](https://drive.google.com/drive/folders/13uOFLaSVjIe3I-EtIp_O7TQ35IpqMWL8?usp=drive_link)  
+
 Further assets can be found on the [OpenLab BSP site](https://openlab.citytech.cuny.edu/wayang2024/). Pay particular attention to the Spring 2024 notes as well as the archive.
 
 Daniel and Juliann both have edit access.
