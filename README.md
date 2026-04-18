@@ -16,7 +16,7 @@ This is the link to our archival log with all the assets stored: [BSPT Video Arc
 
 Logos and other art and icons can be found at this [Dropbox location](https://www.dropbox.com/scl/fo/xjejt1k5ej45rmlm50r5u/AEDTWcmFSucNu2EIDDX6nIM?rlkey=6jwm79a0lmrj1bds5ux95btpl&dl=0)
 
-The IMages that were used or formatted for 3D Printing from teh Spring 2024 semester can be found in this [Dropbox Location](https://www.dropbox.com/scl/fo/7scjon5legivqvy4bbaat/h?rlkey=9bdykvv5l9jpui8s49vddvgho&dl=0)  
+The Images and files that were used for 3D Printing in the Spring 2024 semester can be found in this [Dropbox Location](https://www.dropbox.com/scl/fo/7scjon5legivqvy4bbaat/h?rlkey=9bdykvv5l9jpui8s49vddvgho&dl=0)  
 
 Spring 2024 resources can be found in this [Dropbox folder](https://www.dropbox.com/scl/fo/d9giyfhs8weuoxm0qqocb/AKAd-XUpmCTPax8YVbJSX5g?rlkey=mes99izoodc5zel9zqg2wbgw9&dl=0)  
 
